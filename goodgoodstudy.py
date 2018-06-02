@@ -1,1 +1,2 @@
 print("goodgoodstudy")
+print("daydayup")
